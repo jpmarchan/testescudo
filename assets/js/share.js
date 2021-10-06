@@ -43,6 +43,50 @@ function shareOjoWhatsapp() {
 }
 
 
+function shareMixtecoOnFacebook() {
+  shareCurrentPageOnFB("LAS VACUNAS SALVAN VIDAS");
+}
+function shareMixtecoOnTwitter() {
+  shareCurrentPageOnTW("LAS VACUNAS SALVAN VIDAS");
+}
+function shareMixtecoOnWhatsapp() {
+  shareCurrentPageOnWS("LAS VACUNAS SALVAN VIDAS");
+}
+
+function shareQuechuaOnFacebook() {
+  shareCurrentPageOnFB("DESINFORMACIÓN SOBRE LAS VACUNAS CONTRA LA COVID-19 EN EL AYLLU SUYO INGAVI");
+}
+function shareQuechuaOnTwitter() {
+  shareCurrentPageOnTW("DESINFORMACIÓN SOBRE LAS VACUNAS CONTRA LA COVID-19 EN EL AYLLU SUYO INGAVI");
+}
+function shareQuechuaOnWhatsapp() {
+  shareCurrentPageOnWS("DESINFORMACIÓN SOBRE LAS VACUNAS CONTRA LA COVID-19 EN EL AYLLU SUYO INGAVI");
+}
+
+function sharekichwa1OnFacebook() {
+  shareCurrentPageOnFB("MITOS SOBRE LAS VACUNAS CONTRA EL COVID-19");
+}
+function sharekichwa1OnTwitter() {
+  shareCurrentPageOnTW("MITOS SOBRE LAS VACUNAS CONTRA EL COVID-19");
+}
+function sharekichwa1OnWhatsapp() {
+  shareCurrentPageOnWS("MITOS SOBRE LAS VACUNAS CONTRA EL COVID-19");
+}
+
+function sharekichwa2OnFacebook() {
+  shareCurrentPageOnFB("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+}
+function sharekichwa2OnTwitter() {
+  shareCurrentPageOnTW("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+}
+function sharekichwa2OnWhatsapp() {
+  shareCurrentPageOnWS("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+}
+
+
+
+
+
 
 // Functions for "inolvidables"
 function shareInolvidablesOnFacebook() {

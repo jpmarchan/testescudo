@@ -10,12 +10,13 @@ function shareIndexOnTwitter() {
 function shareIndexOnWhatsapp() {
   shareCurrentPageOnWS("ESCUDO - Pódcasts en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19 | Convoca");
 }
-function sharePeruOnWhatsapp() {
-  shareCurrentPageOnFB("ESCUDO | PERÚ");
-}
 
-function sharePeruOnWhatsapp() {
+
+function sharePeruOnFacebook() {
   shareCurrentPageOnTW("ESCUDO | PERÚ ");
+}
+function sharePeruOnTwitter() {
+  shareCurrentPageOnFB("ESCUDO | PERÚ");
 }
 function sharePeruOnWhatsapp() {
   shareCurrentPageOnWS("ESCUDO | PERÚ ");

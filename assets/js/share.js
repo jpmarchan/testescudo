@@ -11,13 +11,14 @@ function shareIndexOnWhatsapp() {
   shareCurrentPageOnWS("ESCUDO - Pódcasts en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19 | Convoca");
 }
 function sharePeruOnWhatsapp() {
-  shareCurrentPageOnWS("Escudo");
+  shareCurrentPageOnFB("ESCUDO | PERÚ");
 }
-function shareIndexOnWhatsapp1() {
-  shareCurrentPageOnWS("Escudo");
+
+function sharePeruOnWhatsapp() {
+  shareCurrentPageOnTW("ESCUDO | PERÚ ");
 }
-function shareIndexOnWhatsapp2() {
-  shareCurrentPageOnWS("Escudo");
+function sharePeruOnWhatsapp() {
+  shareCurrentPageOnWS("ESCUDO | PERÚ ");
 }
 
 // Functions for "imprescindibles"

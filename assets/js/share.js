@@ -23,10 +23,10 @@ function sharePeruOnWhatsapp() {
 }
 
 function shareConvocaOnFacebook() {
-  shareCurrentPageOnTW("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+  shareCurrentPageOnFB("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
 }
 function shareConvocaOnTwitter() {
-  shareCurrentPageOnFB("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+  shareCurrentPageOnTW("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
 }
 function shareConvocaOnWhatsapp() {
   shareCurrentPageOnWS("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");

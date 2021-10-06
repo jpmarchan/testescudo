@@ -1,13 +1,22 @@
 // Functions for "HOME PAGE"
 function shareIndexOnFacebook() {
-  shareCurrentPageOnFB("Escudo");
+  shareCurrentPageOnFB("ESCUDO - Pódcasts en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19 | Convoca");
 }
 
 function shareIndexOnTwitter() {
-  shareCurrentPageOnTW("Escudo");
+  shareCurrentPageOnTW("ESCUDO - Pódcasts en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19 | Convoca");
 }
 
 function shareIndexOnWhatsapp() {
+  shareCurrentPageOnWS("ESCUDO - Pódcasts en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19 | Convoca");
+}
+function sharePeruOnWhatsapp() {
+  shareCurrentPageOnWS("Escudo");
+}
+function shareIndexOnWhatsapp1() {
+  shareCurrentPageOnWS("Escudo");
+}
+function shareIndexOnWhatsapp2() {
   shareCurrentPageOnWS("Escudo");
 }
 

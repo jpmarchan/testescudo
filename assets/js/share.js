@@ -73,7 +73,7 @@ function shareAisladosOnWhatsapp() {
 }
 
 // Main share functions
-function shareCurrentPageOnTW(message = "Escudo") {
+function shareCurrentPageOnTW(message = "ESCUDO - Pódcasts en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19 | Convoca") {
   var URI = window.location.href;
   var dir = URI;
   var tit = message;
@@ -92,7 +92,7 @@ function shareCurrentPageOnTW(message = "Escudo") {
   void 0;
 }
 
-function shareCurrentPageOnFB(message = "Escudo") {
+function shareCurrentPageOnFB(message = "ESCUDO - Pódcasts en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19 | Convoca") {
   var URI = window.location.href;
   var dir = URI;
   var tit = message;
@@ -106,7 +106,7 @@ function shareCurrentPageOnFB(message = "Escudo") {
   void 0;
 }
 
-function shareCurrentPageOnWS(message = "Escudo") {
+function shareCurrentPageOnWS(message = "ESCUDO - Pódcasts en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19 | Convoca") {
   var URI = window.location.href;
   var dir = URI;
   var tit = message;

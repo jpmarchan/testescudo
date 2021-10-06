@@ -22,6 +22,16 @@ function sharePeruOnWhatsapp() {
   shareCurrentPageOnWS("ESCUDO | PERÚ ");
 }
 
+function shareConvocaOnFacebook() {
+  shareCurrentPageOnTW("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+}
+function shareConvocaOnTwitter() {
+  shareCurrentPageOnFB("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+}
+function shareConvocaOnWhatsapp() {
+  shareCurrentPageOnWS("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+}
+
 // Functions for "imprescindibles"
 function sharePeruOnFacebook() {
   shareCurrentPageOnFB("Perú");

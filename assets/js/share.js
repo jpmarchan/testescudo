@@ -13,10 +13,10 @@ function shareIndexOnWhatsapp() {
 
 
 function sharePeruOnFacebook() {
-  shareCurrentPageOnTW("ESCUDO | PERÚ ");
+  shareCurrentPageOnFB("ESCUDO | PERÚ ");
 }
 function sharePeruOnTwitter() {
-  shareCurrentPageOnFB("ESCUDO | PERÚ");
+  shareCurrentPageOnTW("ESCUDO | PERÚ");
 }
 function sharePeruOnWhatsapp() {
   shareCurrentPageOnWS("ESCUDO | PERÚ ");
@@ -32,13 +32,13 @@ function shareConvocaOnWhatsapp() {
   shareCurrentPageOnWS("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
 }
 
-function shareOjoOnFacebook() {
+function shareOjoFacebook() {
   shareCurrentPageOnFB("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
 }
-function shareOjoOnTwitter() {
+function shareOjoTwitter() {
   shareCurrentPageOnTW("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
 }
-function shareOjoaOnWhatsapp() {
+function shareOjoWhatsapp() {
   shareCurrentPageOnWS("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
 }
 

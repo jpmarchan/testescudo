@@ -73,13 +73,13 @@ function sharekichwa1OnWhatsapp() {
   shareCurrentPageOnWS("MITOS SOBRE LAS VACUNAS CONTRA EL COVID-19");
 }
 
-function sharekichwa2OnFacebook() {
+function shareKichwa2OnFacebook() {
   shareCurrentPageOnFB("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
 }
-function sharekichwa2OnTwitter() {
+function shareKichwa2OnTwitter() {
   shareCurrentPageOnTW("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
 }
-function sharekichwa2OnWhatsapp() {
+function shareKichwa2OnWhatsapp() {
   shareCurrentPageOnWS("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
 }
 

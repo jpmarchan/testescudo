@@ -32,6 +32,16 @@ function shareConvocaOnWhatsapp() {
   shareCurrentPageOnWS("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
 }
 
+function shareOjoOnFacebook() {
+  shareCurrentPageOnFB("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
+}
+function shareOjoOnTwitter() {
+  shareCurrentPageOnTW("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
+}
+function shareOjoaOnWhatsapp() {
+  shareCurrentPageOnWS("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
+}
+
 // Functions for "imprescindibles"
 function sharePeruOnFacebook() {
   shareCurrentPageOnFB("Perú");

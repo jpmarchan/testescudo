@@ -42,18 +42,7 @@ function shareOjoaOnWhatsapp() {
   shareCurrentPageOnWS("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
 }
 
-// Functions for "imprescindibles"
-function sharePeruOnFacebook() {
-  shareCurrentPageOnFB("Perú");
-}
 
-function sharePeruOnTwitter() {
-  shareCurrentPageOnTW("Perú");
-}
-
-function sharePeruOnWhatsapp() {
-  shareCurrentPageOnWS("Perú");
-}
 
 // Functions for "inolvidables"
 function shareInolvidablesOnFacebook() {

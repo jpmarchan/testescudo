@@ -747,3 +747,19 @@ input:checked + .slider:before {
 .pmd-floating-action:hover .pmd-floating-action-btn:before, .menu--floating--open .pmd-floating-action-btn:before {
   opacity: 1;
 }
+
+@media (max-width: 823px) {
+  .facet_sidebar {
+    width: 20%!important
+  }
+  .facet_sidebar2 {
+    font-size: 1.5rem  }
+    .facet_sidebar3 {
+      font-size: 1rem  }
+      .codrops-header-special{
+        margin-top: 25%;
+      }
+      .facet_sidebar5 {
+        font-size: 1.5rem  }
+      
+}

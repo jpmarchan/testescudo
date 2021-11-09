@@ -13,14 +13,48 @@ function shareIndexOnWhatsapp() {
 
 
 function sharePeruOnFacebook() {
-  shareCurrentPageOnFB("ESCUDO | PERÚ ");
+  shareCurrentPageOnFB("ESCUDO | PERÚ | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
 }
 function sharePeruOnTwitter() {
-  shareCurrentPageOnTW("ESCUDO | PERÚ");
+  shareCurrentPageOnTW("ESCUDO | PERÚ | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
 }
 function sharePeruOnWhatsapp() {
-  shareCurrentPageOnWS("ESCUDO | PERÚ ");
+  shareCurrentPageOnWS("ESCUDO | PERÚ | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
 }
+
+
+  function shareEcuadorOnFacebook() {
+    shareCurrentPageOnFB("ESCUDO | ECUADOR | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+  }
+  function shareEcuadorOnTwitter() {
+    shareCurrentPageOnTW("ESCUDO | ECUADOR | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+  }
+  function sharePeruOnWhatsapp() {
+    shareCurrentPageOnWS("ESCUDO | ECUADOR | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+}
+
+function shareBoliviaOnFacebook() {
+  shareCurrentPageOnFB("ESCUDO | BOLIVIA | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+}
+function shareBoliviaOnTwitter() {
+  shareCurrentPageOnTW("ESCUDO | BOLIVIA | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+}
+function shareBoliviaOnWhatsapp() {
+  shareCurrentPageOnWS("ESCUDO | BOLIVIA | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+}
+
+function shareMexicoOnFacebook() {
+  shareCurrentPageOnFB("ESCUDO | MÉXICO | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+}
+function shareMexicoOnTwitter() {
+  shareCurrentPageOnTW("ESCUDO | MÉXICO | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+}
+function shareMexicoOnWhatsapp() {
+  shareCurrentPageOnWS("ESCUDO | MÉXICO | Pódcast en lenguas originarias para combatir la desinformación sobre la vacunación contra el COVID-19");
+}
+
+
+
 
 function shareConvocaOnFacebook() {
   shareCurrentPageOnFB("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
@@ -30,6 +64,16 @@ function shareConvocaOnTwitter() {
 }
 function shareConvocaOnWhatsapp() {
   shareCurrentPageOnWS("¿SON EFICACES LAS VACUNAS CONTRA EL COVID-19?");
+}
+
+function shareConvocaAymaraOnFacebook() {
+  shareCurrentPageOnFB("EL AUSENTISMO ESTATAL Y LA EFECTIVIDAD DE LA VACUNA SINOPHARM EN LA POBLACIÓN INDÍGENA ALTIPLÁNICA PERUANA");
+}
+function shareConvocaAymaraOnTwitter() {
+  shareCurrentPageOnTW("EL AUSENTISMO ESTATAL Y LA EFECTIVIDAD DE LA VACUNA SINOPHARM EN LA POBLACIÓN INDÍGENA ALTIPLÁNICA PERUANA");
+}
+function shareConvocaAymaraOnWhatsapp() {
+  shareCurrentPageOnWS("EL AUSENTISMO ESTATAL Y LA EFECTIVIDAD DE LA VACUNA SINOPHARM EN LA POBLACIÓN INDÍGENA ALTIPLÁNICA PERUANA");
 }
 
 function shareOjoFacebook() {
@@ -42,6 +86,17 @@ function shareOjoWhatsapp() {
   shareCurrentPageOnWS("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
 }
 
+function shareOjoCollaoFacebook() {
+  shareCurrentPageOnFB("¿LAS VACUNAS APLICADAS EN LOS PUEBLOS INDÍGENAS PROTEGEN CONTRA EL COVID-19?");
+}
+function shareOjoCollaoTwitter() {
+  shareCurrentPageOnTW("¿LAS VACUNAS APLICADAS EN LOS PUEBLOS INDÍGENAS PROTEGEN CONTRA EL COVID-19?");
+}
+function shareOjoCollaoWhatsapp() {
+  shareCurrentPageOnWS("¿LAS VACUNAS APLICADAS EN LOS PUEBLOS INDÍGENAS PROTEGEN CONTRA EL COVID-19?");
+}
+
+
 
 function shareMixtecoOnFacebook() {
   shareCurrentPageOnFB("LAS VACUNAS SALVAN VIDAS");
@@ -53,6 +108,16 @@ function shareMixtecoOnWhatsapp() {
   shareCurrentPageOnWS("LAS VACUNAS SALVAN VIDAS");
 }
 
+function shareMixteco1OnFacebook() {
+  shareCurrentPageOnFB("¿LAS VACUNAS CONTRA EL COVID-19 EVITARÁN QUE TENGA HIJOS?");
+}
+function shareMixteco1OnTwitter() {
+  shareCurrentPageOnTW("¿LAS VACUNAS CONTRA EL COVID-19 EVITARÁN QUE TENGA HIJOS?");
+}
+function shareMixteco1OnWhatsapp() {
+  shareCurrentPageOnWS("¿LAS VACUNAS CONTRA EL COVID-19 EVITARÁN QUE TENGA HIJOS?");
+}
+
 function shareQuechuaOnFacebook() {
   shareCurrentPageOnFB("DESINFORMACIÓN SOBRE LAS VACUNAS CONTRA LA COVID-19 EN EL AYLLU SUYO INGAVI");
 }
@@ -61,6 +126,36 @@ function shareQuechuaOnTwitter() {
 }
 function shareQuechuaOnWhatsapp() {
   shareCurrentPageOnWS("DESINFORMACIÓN SOBRE LAS VACUNAS CONTRA LA COVID-19 EN EL AYLLU SUYO INGAVI");
+}
+
+function shareQuechua1OnFacebook() {
+  shareCurrentPageOnFB("MITOS Y VERDADES DE LA VACUNACIÓN CONTRA EL COVID-19 EN LAS COMUNIDADES QUECHUAS BOLIVIANAS");
+}
+function shareQuechua1OnTwitter() {
+  shareCurrentPageOnTW("MITOS Y VERDADES DE LA VACUNACIÓN CONTRA EL COVID-19 EN LAS COMUNIDADES QUECHUAS BOLIVIANAS");
+}
+function shareQuechua1OnWhatsapp() {
+  shareCurrentPageOnWS("MITOS Y VERDADES DE LA VACUNACIÓN CONTRA EL COVID-19 EN LAS COMUNIDADES QUECHUAS BOLIVIANAS");
+}
+
+function shareAymaraOnFacebook() {
+  shareCurrentPageOnFB("¿LAS VACUNAS CONTRA EL COVID-19 ACORTAN LA VIDA?");
+}
+function shareAymaraOnTwitter() {
+  shareCurrentPageOnTW("¿LAS VACUNAS CONTRA EL COVID-19 ACORTAN LA VIDA?");
+}
+function shareAymaraOnWhatsapp() {
+  shareCurrentPageOnWS("¿LAS VACUNAS CONTRA EL COVID-19 ACORTAN LA VIDA?");
+}
+
+function shareGuarniOnFacebook() {
+  shareCurrentPageOnFB("¿LAS VACUNAS CONTRA EL COVID-19 CONVIERTEN A LAS PERSONAS EN ANIMALES O IMPLANTAN CHIPS?");
+}
+function shareGuarniOnTwitter() {
+  shareCurrentPageOnTW("¿LAS VACUNAS CONTRA EL COVID-19 CONVIERTEN A LAS PERSONAS EN ANIMALES O IMPLANTAN CHIPS?");
+}
+function shareGuarniOnWhatsapp() {
+  shareCurrentPageOnWS("¿LAS VACUNAS CONTRA EL COVID-19 CONVIERTEN A LAS PERSONAS EN ANIMALES O IMPLANTAN CHIPS?");
 }
 
 function sharekichwa1OnFacebook() {
@@ -84,8 +179,26 @@ function shareKichwa2OnWhatsapp() {
 }
 
 
+function shareKichwa3OnFacebook() {
+  shareCurrentPageOnFB("¿LA VACUNA CONTRA EL COVID-19 PRODUCE ESTERILIDAD?");
+}
+function shareKichwa3OnTwitter() {
+  shareCurrentPageOnTW("¿LA VACUNA CONTRA EL COVID-19 PRODUCE ESTERILIDAD?");
+}
+function shareKichwa3OnWhatsapp() {
+  shareCurrentPageOnWS("¿LA VACUNA CONTRA EL COVID-19 PRODUCE ESTERILIDAD?");
+}
 
 
+function shareKichwa4OnFacebook() {
+  shareCurrentPageOnFB("¡YA ESTOY VACUNADO! ¿ES NECESARIO USAR LA MASCARILLA Y MANTENER EL DISTANCIAMIENTO SOCIAL?");
+}
+function shareKichwa4OnTwitter() {
+  shareCurrentPageOnTW("¡YA ESTOY VACUNADO! ¿ES NECESARIO USAR LA MASCARILLA Y MANTENER EL DISTANCIAMIENTO SOCIAL?");
+}
+function shareKichwa4OnWhatsapp() {
+  shareCurrentPageOnWS("¡YA ESTOY VACUNADO! ¿ES NECESARIO USAR LA MASCARILLA Y MANTENER EL DISTANCIAMIENTO SOCIAL?");
+}
 
 
 // Functions for "inolvidables"

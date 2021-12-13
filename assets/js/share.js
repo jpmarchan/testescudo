@@ -76,6 +76,27 @@ function shareConvocaAymaraOnWhatsapp() {
   shareCurrentPageOnWS("EL AUSENTISMO ESTATAL Y LA EFECTIVIDAD DE LA VACUNA SINOPHARM EN LA POBLACIÓN INDÍGENA ALTIPLÁNICA PERUANA");
 }
 
+function shareConvocaAymaraV2OnFacebook() {
+  shareCurrentPageOnFB("IMPORTANCIA DE LA APLICACIÓN DE LA VACUNA CONTRA EL COVID-19");
+}
+function shareConvocaAymaraV2OnTwitter() {
+  shareCurrentPageOnTW("IMPORTANCIA DE LA APLICACIÓN DE LA VACUNA CONTRA EL COVID-19");
+}
+function shareConvocaAymaraV2OnWhatsapp() {
+  shareCurrentPageOnWS("IMPORTANCIA DE LA APLICACIÓN DE LA VACUNA CONTRA EL COVID-19");
+}
+
+
+function shareConvocaAymaraV3OnFacebook() {
+  shareCurrentPageOnFB("¿ES NECESARIA LA VACUNA DE REFUERZO CONTRA EL COVID-19?");
+}
+function shareConvocaAymaraV3OnTwitter() {
+  shareCurrentPageOnTW("¿ES NECESARIA LA VACUNA DE REFUERZO CONTRA EL COVID-19?");
+}
+function shareConvocaAymaraV3OnWhatsapp() {
+  shareCurrentPageOnWS("¿ES NECESARIA LA VACUNA DE REFUERZO CONTRA EL COVID-19?");
+}
+
 function shareOjoFacebook() {
   shareCurrentPageOnFB("EFECTIVIDAD Y SEGURIDAD DE LAS VACUNAS CONTRA EL COVID-19");
 }
@@ -118,6 +139,16 @@ function shareMixteco1OnWhatsapp() {
   shareCurrentPageOnWS("¿LAS VACUNAS CONTRA EL COVID-19 EVITARÁN QUE TENGA HIJOS?");
 }
 
+function shareMixteco1v2OnFacebook() {
+  shareCurrentPageOnFB("DOSIS COMPLETAS PARA UNA MAYOR PROTECCIÓN CONTRA EL COVID-19");
+}
+function shareMixteco1v2OnTwitter() {
+  shareCurrentPageOnTW("DOSIS COMPLETAS PARA UNA MAYOR PROTECCIÓN CONTRA EL COVID-19");
+}
+function shareMixteco1v2OnWhatsapp() {
+  shareCurrentPageOnWS("DOSIS COMPLETAS PARA UNA MAYOR PROTECCIÓN CONTRA EL COVID-19");
+}
+
 function shareQuechuaOnFacebook() {
   shareCurrentPageOnFB("DESINFORMACIÓN SOBRE LAS VACUNAS CONTRA LA COVID-19 EN EL AYLLU SUYO INGAVI");
 }
@@ -126,6 +157,16 @@ function shareQuechuaOnTwitter() {
 }
 function shareQuechuaOnWhatsapp() {
   shareCurrentPageOnWS("DESINFORMACIÓN SOBRE LAS VACUNAS CONTRA LA COVID-19 EN EL AYLLU SUYO INGAVI");
+}
+
+function shareQuechuav2OnFacebook() {
+  shareCurrentPageOnFB("DUDAS SOBRE LA APLICACIÓN DE LAS VACUNAS CONTRA EL COVID-19 EN LAS COMUNIDADES QUECHUAS Y AYMARAS DE BOLIVIA");
+}
+function shareQuechuav2OnTwitter() {
+  shareCurrentPageOnTW("DUDAS SOBRE LA APLICACIÓN DE LAS VACUNAS CONTRA EL COVID-19 EN LAS COMUNIDADES QUECHUAS Y AYMARAS DE BOLIVIA");
+}
+function shareQuechuav2OnWhatsapp() {
+  shareCurrentPageOnWS("DUDAS SOBRE LA APLICACIÓN DE LAS VACUNAS CONTRA EL COVID-19 EN LAS COMUNIDADES QUECHUAS Y AYMARAS DE BOLIVIA");
 }
 
 function shareQuechua1OnFacebook() {
@@ -156,6 +197,17 @@ function shareGuarniOnTwitter() {
 }
 function shareGuarniOnWhatsapp() {
   shareCurrentPageOnWS("¿LAS VACUNAS CONTRA EL COVID-19 CONVIERTEN A LAS PERSONAS EN ANIMALES O IMPLANTAN CHIPS?");
+}
+
+
+function shareGuarniv1OnFacebook() {
+  shareCurrentPageOnFB("¿CUÁNTO TIEMPO PROTEGEN LAS VACUNAS CONTRA EL COVID-19?");
+}
+function shareGuarniv1OnTwitter() {
+  shareCurrentPageOnTW("¿CUÁNTO TIEMPO PROTEGEN LAS VACUNAS CONTRA EL COVID-19?");
+}
+function shareGuarniv1OnWhatsapp() {
+  shareCurrentPageOnWS("¿CUÁNTO TIEMPO PROTEGEN LAS VACUNAS CONTRA EL COVID-19?");
 }
 
 function sharekichwa1OnFacebook() {
@@ -198,6 +250,29 @@ function shareKichwa4OnTwitter() {
 }
 function shareKichwa4OnWhatsapp() {
   shareCurrentPageOnWS("¡YA ESTOY VACUNADO! ¿ES NECESARIO USAR LA MASCARILLA Y MANTENER EL DISTANCIAMIENTO SOCIAL?");
+}
+
+function shareKichwa4Ov3nFacebook() {
+  shareCurrentPageOnFB("VACUNACIÓN CONTRA EL COVID-19 EN NIÑOS MENORES DE 5 AÑOS");
+}
+function shareKichwa4Ov3nTwitter() {
+  shareCurrentPageOnTW("VACUNACIÓN CONTRA EL COVID-19 EN NIÑOS MENORES DE 5 AÑOS");
+}
+function shareKichwa4Ov3nWhatsapp() {
+  shareCurrentPageOnWS("¡VACUNACIÓN CONTRA EL COVID-19 EN NIÑOS MENORES DE 5 AÑOS");
+}
+
+
+
+
+function shareKichwa4v2OnFacebook() {
+  shareCurrentPageOnFB("ADULTOS MAYORES, LOS MÁS VULNERABLES ANTE EL COVID-19");
+}
+function shareKichwa4v2OnTwitter() {
+  shareCurrentPageOnTW("ADULTOS MAYORES, LOS MÁS VULNERABLES ANTE EL COVID-19");
+}
+function shareKichwa4v2OnWhatsapp() {
+  shareCurrentPageOnWS("ADULTOS MAYORES, LOS MÁS VULNERABLES ANTE EL COVID-19");
 }
 
 

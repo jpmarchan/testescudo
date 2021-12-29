@@ -87,6 +87,29 @@ function shareConvocaAymaraV2OnWhatsapp() {
 }
 
 
+function shareConvocaAshaninkaV2OnFacebook() {
+  shareCurrentPageOnFB("VACUNACIÓN CONTRA EL COVID-19 EN LAS COMUNIDADES ORIGINARIAS PERUANAS");
+}
+function shareConvocaAshaninkaV2OnTwitter() {
+  shareCurrentPageOnTW("VACUNACIÓN CONTRA EL COVID-19 EN LAS COMUNIDADES ORIGINARIAS PERUANAS");
+}
+function shareConvocaAshaninkaV2OnWhatsapp() {
+  shareCurrentPageOnWS("VACUNACIÓN CONTRA EL COVID-19 EN LAS COMUNIDADES ORIGINARIAS PERUANAS");
+}
+
+
+function shareConvocaUltimaV2OnFacebook() {
+  shareCurrentPageOnFB("DUDAS Y CERTEZAS SOBRE LAS VARIANTES DEL COVID-19");
+}
+function shareConvocaUltimaV2OnTwitter() {
+  shareCurrentPageOnTW("DUDAS Y CERTEZAS SOBRE LAS VARIANTES DEL COVID-19");
+}
+function shareConvocaUltimaV2OnWhatsapp() {
+  shareCurrentPageOnWS("DUDAS Y CERTEZAS SOBRE LAS VARIANTES DEL COVID-19");
+}
+
+
+
 function shareConvocaAymaraV3OnFacebook() {
   shareCurrentPageOnFB("¿ES NECESARIA LA VACUNA DE REFUERZO CONTRA EL COVID-19?");
 }
@@ -149,6 +172,20 @@ function shareMixteco1v2OnWhatsapp() {
   shareCurrentPageOnWS("DOSIS COMPLETAS PARA UNA MAYOR PROTECCIÓN CONTRA EL COVID-19");
 }
 
+
+
+function shareMixteco3v2OnFacebook() {
+  shareCurrentPageOnFB("DOSIS COMPLETAS PARA UNA MAYOR PROTECCIÓN CONTRA EL COVID-19");
+}
+function shareMixteco3v2OnTwitter() {
+  shareCurrentPageOnTW("DOSIS COMPLETAS PARA UNA MAYOR PROTECCIÓN CONTRA EL COVID-19");
+}
+function shareMixteco3v2OnWhatsapp() {
+  shareCurrentPageOnWS("DOSIS COMPLETAS PARA UNA MAYOR PROTECCIÓN CONTRA EL COVID-19");
+}
+
+
+
 function shareQuechuaOnFacebook() {
   shareCurrentPageOnFB("DESINFORMACIÓN SOBRE LAS VACUNAS CONTRA LA COVID-19 EN EL AYLLU SUYO INGAVI");
 }
@@ -177,6 +214,17 @@ function shareQuechua1OnTwitter() {
 }
 function shareQuechua1OnWhatsapp() {
   shareCurrentPageOnWS("MITOS Y VERDADES DE LA VACUNACIÓN CONTRA EL COVID-19 EN LAS COMUNIDADES QUECHUAS BOLIVIANAS");
+}
+
+
+function shareUltimoOnFacebook() {
+  shareCurrentPageOnFB("EFICACIA DE LAS VACUNAS CONTRA LAS VARIANTES DEL CORONAVIRUS");
+}
+function shareUltimoOnTwitter() {
+  shareCurrentPageOnTW("EFICACIA DE LAS VACUNAS CONTRA LAS VARIANTES DEL CORONAVIRUS");
+}
+function shareUltimoOnWhatsapp() {
+  shareCurrentPageOnWS("EFICACIA DE LAS VACUNAS CONTRA LAS VARIANTES DEL CORONAVIRUS");
 }
 
 function shareAymaraOnFacebook() {
@@ -259,8 +307,19 @@ function shareKichwa4Ov3nTwitter() {
   shareCurrentPageOnTW("VACUNACIÓN CONTRA EL COVID-19 EN NIÑOS MENORES DE 5 AÑOS");
 }
 function shareKichwa4Ov3nWhatsapp() {
-  shareCurrentPageOnWS("¡VACUNACIÓN CONTRA EL COVID-19 EN NIÑOS MENORES DE 5 AÑOS");
+  shareCurrentPageOnWS("VACUNACIÓN CONTRA EL COVID-19 EN NIÑOS MENORES DE 5 AÑOS");
 }
+
+function shareKichwa7Ov3nFacebook() {
+  shareCurrentPageOnFB("VACUNACIÓN Y REACTIVACIÓN ECONÓMICA");
+}
+function shareKichwa7Ov3nTwitter() {
+  shareCurrentPageOnTW("VACUNACIÓN Y REACTIVACIÓN ECONÓMICA");
+}
+function shareKichwa7Ov3nWhatsapp() {
+  shareCurrentPageOnWS("VACUNACIÓN Y REACTIVACIÓN ECONÓMICA");
+}
+
 
 
 
